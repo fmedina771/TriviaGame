@@ -1,0 +1,40 @@
+body {
+	background: #FFF3B0;
+}
+.navbar {
+	background: #78A59B;
+	padding: 10px;
+}
+
+.navbar-right {
+	font-size: 28px;
+}
+
+.game-div {
+	background: #E09F3E;
+	border: 2px;
+	padding-top:10px;
+	padding-bottom: 200px;
+}
+
+.game-title {
+	font-family: 'Kaushan Script', cursive;
+	font-size: 90px;
+	padding-bottom: 50px;
+}
+ 
+.navbar-link {
+	font-family: 'Kaushan Script', cursive;
+}
+
+.btn {
+	background: #999169;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.game-content {
+	color: black;
+}
+
+
+
